@@ -49,6 +49,7 @@ public class Praktikum1 {
 
         System.out.println("=== DATA 10 KOSMETIK ===\n");
 
+        // Menghitung total harga untuk setiap kosmetik
         totalHarga1 = hitungTotalHarga(harga1, jumlahBeli);
         totalHarga2 = hitungTotalHarga(harga2, jumlahBeli);
         totalHarga3 = hitungTotalHarga(harga3, jumlahBeli);
