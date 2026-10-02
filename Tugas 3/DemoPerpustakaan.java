@@ -7,7 +7,7 @@ public class DemoPerpustakaan {
         buku1.tahunTerbit = 2025;
         buku1.kategori = "Pemrograman";
 
-        Anggota anggota1 = new Anggota();
+        Anggota18 anggota1 = new Anggota18();
         anggota1.nama = "Najwa Viola Hanafi";
         anggota1.nim = "254107060002";
         anggota1.jurusan = "Teknologi Informasi";
